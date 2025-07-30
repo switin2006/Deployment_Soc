@@ -15,4 +15,5 @@ ffmpeg-python
 huggingface_hub
 opencv-python
 ipython
+streamlit==1.35.0
 
